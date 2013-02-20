@@ -1,0 +1,12 @@
+{
+	"name" : "Google Analytics copy number",
+	"version" : "0.0.1",
+	"manifest_version" : 2,
+	"content_scripts" : [
+		{
+			"matches" : ["*://www.google.com/analytics/*"],
+			"js" : ["content.js"],
+			"css" : ["content.css"]
+		}
+	]
+}

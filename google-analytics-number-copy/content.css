@@ -1,0 +1,10 @@
+#googleAnalyticsNumberCopyField {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 10000;
+	font-size: 20px;
+	padding: 0.5em;
+	border: 3px solid #069;
+	visibility: hidden;
+}

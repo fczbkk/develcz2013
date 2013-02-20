@@ -1,0 +1,18 @@
+{
+	"name" : "PHP reference",
+	"version" : "0.0.1",
+	"manifest_version" : 2,
+	"omnibox" : {
+		"keyword" : "php"
+	},
+	"background" : {
+		"persistent" : false,
+		"scripts" : [
+			"background.js"
+		]
+	},
+	"permissions" : [
+		"tabs",
+		"*://*.php.net/*"
+	]
+}
