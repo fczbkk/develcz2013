@@ -12,7 +12,7 @@ Chrome, odporúčam moju prednášku pre Devfest 2012:
 Feedback k prednáške
 --------------------
 
-Prosím, dajte mi vedieť, ako sa vám prednáška páčila. Buď na tomto odkaze:
+Prosím, daj mi vedieť, ako sa ti prednáška páčila. Buď na tomto odkaze:
 
 http://www.doporucim.cz/mobile/DEVELRIKI
 
