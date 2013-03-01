@@ -13,12 +13,8 @@ function getRefList(callback) {
 }
 
 function convertTxtToXml(text, callback) {
-	text = text || '';
-	callback = callback || function () {};
-
 	var parser = new DOMParser();
 	var doc = parser.parseFromString(text, "application/xml");
-
 	callback(doc);
 }
 
