@@ -9,6 +9,13 @@ Chrome, odporúčam moju prednášku pre Devfest 2012:
 * Video: http://www.youtube.com/watch?v=IS--dGzzNkk
 * Poznámky a podklady: http://fczbkk.com/devfest2012/
 
+Snippety
+--------
+
+* https://github.com/fczbkk/javascript-snippets
+* https://github.com/fczbkk/chrome-extension-snippets
+* https://github.com/fczbkk/firefox-addon-snippets
+
 Feedback k prednáške
 --------------------
 
